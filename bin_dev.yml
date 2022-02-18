@@ -1,0 +1,6 @@
+---
+configuration_env: dev
+code_repo_url: http://occ03.offcn.com:99/app/iOS_ZGPKUAcademy.git
+binary_repo_url: git@github.com:zhouluyao2020/moudules_bin_repo.git
+binary_download_url: http://192.168.25.85:8081/frameworks/%s/%s/zip
+download_file_type: zip
